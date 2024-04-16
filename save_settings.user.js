@@ -5,7 +5,7 @@
 // @run-at      document-idle
 // @grant       GM.setValue
 // @grant       GM.getValue
-// @version     1.0
+// @version     1.1
 // @author      RyanHx
 // @downloadURL https://github.com/RyanHx/stardew-profits-options/raw/main/save_settings.user.js
 // @homepageURL https://github.com/RyanHx/stardew-profits-options
