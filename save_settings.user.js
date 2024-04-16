@@ -7,6 +7,8 @@
 // @grant       GM.getValue
 // @version     1.0
 // @author      RyanHx
+// @downloadURL https://github.com/RyanHx/stardew-profits-options/raw/main/save_settings.user.js
+// @homepageURL https://github.com/RyanHx/stardew-profits-options
 // @description Save options without relying on url parameters
 // ==/UserScript==
 (async () => {
